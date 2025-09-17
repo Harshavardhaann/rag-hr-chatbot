@@ -1,1 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+faiss-cpu
+sentence-transformers
+pdfplumber
+rank_bm25
+sqlitedict
+httpx
+pandas
+numpy
+scikit-learn
 
